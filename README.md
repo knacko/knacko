@@ -33,14 +33,20 @@
 
 <hr>
 
-<details> <summary>Click here for all my projects!</h1></summary>
+<details> <summary>All about me!</h1></summary>
+
+
+</details>
+
+<details> <summary>All my projects!</h1></summary>
 
 ## Bioinformatics
 - **[scMethrix](https://github.com/CompEpigen/scMethrix)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - a single cell methylation summarization R package with functionality for imputation, reduced dimensionality, and clustering, built-on the native Bioconductor [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html).
-- **[brainphageDNAme](https://github.com/knacko/brainphageDNAme)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - scripts for analyzing methylation in the glioma immune microenviroment.
+- **[brainphageDNAme](https://github.com/knacko/brainphageDNAme)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - scripts for analyzing methylation in the glioma immune microenviroment. Used for my MSc in Molecular Bioscience.
 - **[DAGnalysis](https://github.com/knacko/DAGnalysis)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - a case-control study for risk and prognostic factors for glioma in Australia, as part of the Australian Genomics and Clinical Outcomes of Glioma ([AGOG](http://agogbio.unsw.edu.au/)) project.
 - **[EpidExperiment](https://github.com/knacko/EpidExperiment)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - an epidemiological analysis R package with built-in multiple imputation and confounding variable adjustment via directed acyclic graphs.
 - **[Multiplex Serology Dashboard](https://github.com/knacko/F022-Multiplex-Serology-Dashboard)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - a tool for processing output from Luminex Multiplex Serology. This was used in validation of a novel serological assay for Treponema pallidum (syphilis).
+- **[EmbryophyteTEs](https://github.com/knacko/EmbryophyteTEs)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="15"></a> - scripts for analyzing transposable elements in embryophytes. Used for my Hons. BSc in Microbiology.
 
 ## AI and machine learning
 - **[lightsOutPy](https://github.com/knacko/lightsOutPy)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) to use in finding optimal solutions via machine learning. 
