@@ -23,9 +23,13 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" height="125" />
-</a>
+</a> 
+<!-- a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=knacko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=E3E1E1)" height="125" />
+</a --> 
   </tr>
   </table>
+
 
 <hr>
 
