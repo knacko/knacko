@@ -1,3 +1,11 @@
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerdyaswild/)
+[![OrcID Badge](https://img.shields.io/badge/-OrcID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-b610b0?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nerdyaswild)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)
+[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
+
 <table>
   <tr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,7 +26,7 @@
 - **[Multiplex Serology Dashboard](https://github.com/knacko/F022-Multiplex-Serology-Dashboard)** - a tool for processing output from Luminex Multiplex Serology. This was used in validation of a novel serological assay for Treponema pallidum (syphilis).
 
 ## AI and machine learning
-- **[lightsOutPy](https://github.com/knacko/lightsOutPy)** - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) to use in finding optimal solutions via machine learning.
+- **[lightsOutPy](https://github.com/knacko/lightsOutPy)** - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) to use in finding optimal solutions via machine learning. 
 - **[GameOfTheAmazons](https://github.com/knacko/GameOfTheAmazons)** - an AI-driven player for the chess variant Game of the Amazons.
 
 ## Games
