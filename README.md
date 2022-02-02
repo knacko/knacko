@@ -4,7 +4,7 @@
     
   </font>
     
- Computational biologist, etc
+ Computational biologist **|** Data scientist **|** Software developer **|** Open source enthusiast
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
@@ -13,6 +13,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
+
+<!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
 
 </div> 
 <hr>   
