@@ -39,13 +39,22 @@
 <!-- No width space: %E2%80%8B -->
 
 ### 🛠 Tech Stack
-[![R Badge](https://img.shields.io/badge/R-1F65CC?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Shiny Badge](https://img.shields.io/badge/Shiny-75aadb?style=flat&logo=Symphony&logoColor=white)](https://shiny.rstudio.com/)
-[![Python Badge](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java Badge](https://img.shields.io/badge/Java-ea2d2e?style=flat&logo=java&logoColor=white)](https://www.java.com)
-[![CSharp Badge](https://img.shields.io/badge/C%23-1e9e25?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Unity Badge](https://img.shields.io/badge/Unity-222c37?style=flat&logo=unity&logoColor=white)](https://unity.com/)
-[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com)
+[![R Badge](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=1F65CC)](https://www.r-project.org/)
+[![Shiny Badge](https://img.shields.io/badge/Shiny-05122A?style=flat&logo=Symphony&logoColor=75aadb)](https://shiny.rstudio.com/)
+[![RStudio badge](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)](https://www.rstudio.com/)
+[![Python Badge](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=4B8BBE)](https://www.python.org/)
+[![PyCharm badge](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
+[![Bash badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![Java Badge](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=ea2d2e)](https://www.java.com)
+[![CSharp Badge](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=1e9e25)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Unity Badge](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=222c37)](https://unity.com/)
+[![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)](https://www.android.com)
+[![HTML badge](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.spec.whatwg.org/)
+[![CSS badge](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
+[![Markdown badge](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
+[![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
 
 <details> <summary>🚧 All my projects!</h1></summary>
 
