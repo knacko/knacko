@@ -23,13 +23,13 @@
 🌱 &nbsp;&nbsp;My current focus is AI/machine learning algorithms and writing highly automated code.\
 ✍️ &nbsp;&nbsp;In my free time, I'm usually doing yoga, climbing, cycling, hiking, camping, or otherwise getting dirty.
 
-<details> <summary>🎓 More about me!</h1></summary>
+<!-- details> <summary>🎓 More about me!</h1></summary>
 
 ## Schoolin'
 
 
 
-</details>
+</details -->
 
 <hr>
 <!-- No width space: %E2%80%8B -->
