@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header image](header.png)
+<img align="center" src="header.png" alt="Drew's GitHub Stats" height="225"/>  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
