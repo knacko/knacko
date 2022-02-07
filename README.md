@@ -1,10 +1,6 @@
 <div align="center">
 
-  ### Hi there! I'm Drew! 
-    
-  </font>
-    
- Computational biologist **|** Data scientist **|** Software developer **|** Open source enthusiast
+![Header image](header.png)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
