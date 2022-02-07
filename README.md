@@ -15,6 +15,7 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
 
 <!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
+<!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
 
 </div> 
 <hr>   
@@ -35,9 +36,16 @@
 </details>
 
 <hr>
+<!-- No width space: %E2%80%8B -->
 
 ### 🛠 Tech Stack
-
+[![R Badge](https://img.shields.io/badge/R-1F65CC?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Shiny Badge](https://img.shields.io/badge/Shiny-75aadb?style=flat&logo=Symphony&logoColor=white)](https://shiny.rstudio.com/)
+[![Python Badge](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java Badge](https://img.shields.io/badge/Java-ea2d2e?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![CSharp Badge](https://img.shields.io/badge/C%23-1e9e25?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Unity Badge](https://img.shields.io/badge/Unity-222c37?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com)
 
 <details> <summary>🚧 All my projects!</h1></summary>
 
@@ -66,6 +74,14 @@
 - **[DNAart](https://github.com/knacko/DNAart)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - Translates an individual's epigenome into art. Won the [People's Choice Award](http://www.bioinfo.ufpr.br/suplementos/PresentationsCopenhagenBioinformaticsHackathon_2020.pdf) at the 2020 Copenhagen Bioinformatics Hackathon.
 
 </details>
+
+<!--
+
+<hr>
+
+### Latest Blog Posts
+
+<-->
 <hr>
 
 ### ⚙️&nbsp;GitHub Analytics
