@@ -4,7 +4,7 @@
     
   </font>
     
- Computational biologist, etc
+ Computational biologist **|** Data scientist **|** Software developer **|** Open source enthusiast
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
@@ -14,31 +14,32 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
 
+<!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
+
 </div> 
 <hr>   
-<table>
-  <tr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knacko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Drew's GitHub Stats" height="125"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" height="125" />
-</a> 
-<!-- a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=knacko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=E3E1E1)" height="125" />
-</a --> 
-  </tr>
-  </table>
 
+### 👨🏻‍💻 About Me
 
-<hr>
+💡 &nbsp;&nbsp;&nbsp;I like to build user-friendly tools to simplify complex analyses.\
+🎓 &nbsp;&nbsp;I've just finished my `MSc in molecular biology` at the University of Heidelberg.\
+🌱 &nbsp;&nbsp;My current focus is AI/machine learning algorithms and writing highly automated code.\
+✍️ &nbsp;&nbsp;In my free time, I'm usually doing yoga, climbing, cycling, hiking, camping, or otherwise getting dirty.
 
-<details> <summary>All about me!</h1></summary>
+<details> <summary>🎓 More about me!</h1></summary>
+
+## Schoolin'
+
 
 
 </details>
 
-<details> <summary>All my projects!</h1></summary>
+<hr>
+
+### 🛠 Tech Stack
+
+
+<details> <summary>🚧 All my projects!</h1></summary>
 
 ## Bioinformatics
 - **[scMethrix](https://github.com/CompEpigen/scMethrix)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - a single cell methylation summarization R package with functionality for imputation, reduced dimensionality, and clustering, built-on the native Bioconductor [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html).
@@ -65,3 +66,25 @@
 - **[DNAart](https://github.com/knacko/DNAart)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - Translates an individual's epigenome into art. Won the [People's Choice Award](http://www.bioinfo.ufpr.br/suplementos/PresentationsCopenhagenBioinformaticsHackathon_2020.pdf) at the 2020 Copenhagen Bioinformatics Hackathon.
 
 </details>
+<hr>
+
+### ⚙️&nbsp;GitHub Analytics
+
+<p align="center">
+<table>
+  <tr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knacko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Drew's GitHub Stats" height="125"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" height="125" />
+</a> 
+<!-- a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=knacko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=E3E1E1)" height="125" />
+</a --> 
+  </tr>
+  </table>
+</p>
+
+
+
