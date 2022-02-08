@@ -48,9 +48,10 @@
 [![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)](https://www.android.com)
 [![HTML badge](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.spec.whatwg.org/)
 [![CSS badge](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Jekyll badge](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)](https://jekyllrb.com/)
+[![Markdown badge](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
-[![Markdown badge](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
 
 <details> <summary>🚧 All my projects!</h1></summary>
@@ -99,7 +100,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=knacko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Drew's GitHub Stats" height="125"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" height="125" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" height="125" />
 </a> 
 <!-- a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=knacko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=E3E1E1)" height="125" />
