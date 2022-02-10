@@ -10,6 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
+[![Hits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=knacko.knacko&logo=GitHub&logoColor=FFFFFF&label=&labelColor=9b0d14&color=9b0d14)](https://github.com/ESKYoung/shields-io-visitor-counter)
 
 <!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
@@ -82,6 +83,13 @@
 
 </details>
 
+<!-- details> <summary>💾 My contributions!</h1></summary>
+
+
+
+</details -->
+
+
 <!--
 
 <hr>
@@ -108,6 +116,3 @@
   </tr>
   </table>
 </p>
-
-
-
