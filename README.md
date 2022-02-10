@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" src="header.png" alt="Drew's GitHub Stats" height="225"/>  
+<img align="center" src="/images/header.png" alt="Drew's GitHub Stats" height="225"/>  
 
 [![Website Badge](https://img.shields.io/badge/Website-6F8FAF?style=flat&logoColor=white&logo=AIOHTTP)](https://knacko.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
@@ -15,7 +15,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
 
-</div> 
+</div>
 <hr>   
 
 ### 👨🏻‍💻 About Me
@@ -55,7 +55,7 @@
 [![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
 [![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
 
-<details> <summary>🚧 All my projects!</h1></summary>
+<details> <summary>🚧 All my projects!</summary>
 
 ## Bioinformatics
 - **[scMethrix](https://github.com/CompEpigen/scMethrix)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a> - a single cell methylation summarization R package with functionality for imputation, reduced dimensionality, and clustering, built-on the native Bioconductor [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html).
@@ -66,27 +66,26 @@
 - **[EmbryophyteTEs](https://github.com/knacko/EmbryophyteTEs)** <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="15"></a><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="15"></a> - scripts for analyzing transposable elements in embryophytes. Used for my Hons. BSc in Microbiology.
 
 ## AI and machine learning
-- **[lightsOutPy](https://github.com/knacko/lightsOutPy)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) to use in finding optimal solutions via machine learning. 
+- **[lightsOutPy](https://github.com/knacko/lightsOutPy)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) to use in finding optimal solutions via machine learning.
 - **[GameOfTheAmazons](https://github.com/knacko/GameOfTheAmazons)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - an AI-driven player for the chess variant Game of the Amazons.
 
 ## Games
 - **[Tez](https://github.com/knacko/Tez)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="15"> - a replication of the 90's game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)), but allows for multiple other tesselation patterns. Available on the Google Play store.
-- **[Mindusty Mods](https://github.com/knacko/MindustryMods)** <a href="https://mindustrygame.github.io/wiki/logic/0-introduction/"><img src="https://github.com/Anuken/Mindustry/blob/master/core/assets-raw/sprites/blocks/logic/logic-processor.png" width="15"></a> - a small collection of schematics for processors in the factory game [Mindustry](https://anuke.itch.io/mindustry). Includes auto-conveyer upgrades, detectors, factory controls, and more.
+- **[Mindusty Mods](https://github.com/knacko/MindustryMods)** <a href="https://mindustrygame.github.io/wiki/logic/0-introduction/"><img src="/images/mindustry.png" width="15"></a> - a small collection of schematics for processors in the factory game [Mindustry](https://anuke.itch.io/mindustry). Includes auto-conveyer upgrades, detectors, factory controls, and more.
 
 ## Tools
 - **[AudioToolkit](https://github.com/knacko/AudioToolkit)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - a suite to tools to aid installing stereo system. Available on the Google Play store.
 - **[OChemReaction](https://github.com/knacko/OChemReaction)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - a simple study aid for memorizing synthesis reactions for organic chemisty.
-- **[UBCcards](https://github.com/knacko/UBCcards)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - a group-sourced study card application using a publicly accessible Google Sheets flat-file database. 
+- **[UBCcards](https://github.com/knacko/UBCcards)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - a group-sourced study card application using a publicly accessible Google Sheets flat-file database.
 
 ## Misc
 - **[DNAart](https://github.com/knacko/DNAart)** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15"></a> - Translates an individual's epigenome into art. Won the [People's Choice Award](http://www.bioinfo.ufpr.br/suplementos/PresentationsCopenhagenBioinformaticsHackathon_2020.pdf) at the 2020 Copenhagen Bioinformatics Hackathon.
 
 </details>
 
-<!-- details> <summary>💾 My contributions!</h1></summary>
-
-
-
+<!-- br>
+<details> <summary>💾 My contributions!</h1></summary>
+[![Website Badge](/images/sk_hardcore.png)](https://github.com/skyarkhangel/Hardcore-SK/commits?author=knacko)
 </details -->
 
 
@@ -109,10 +108,10 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knacko&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" height="125" />
-</a> 
+</a>
 <!-- a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=knacko&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=1D1F21&border=E3E1E1)" height="125" />
-</a --> 
+</a -->
   </tr>
   </table>
 </p>
