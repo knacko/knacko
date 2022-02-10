@@ -38,17 +38,22 @@
 
 ### 🛠 Tech Stack
 [![R Badge](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=1F65CC)](https://www.r-project.org/)
-[![Shiny Badge](https://img.shields.io/badge/Shiny-05122A?style=flat&logo=Symphony&logoColor=75aadb)](https://shiny.rstudio.com/)
 [![RStudio badge](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)](https://www.rstudio.com/)
+[![Shiny Badge](https://img.shields.io/badge/Shiny-05122A?style=flat&logo=Symphony&logoColor=75aadb)](https://shiny.rstudio.com/)
 [![Python Badge](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=4B8BBE)](https://www.python.org/)
 [![PyCharm badge](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
-[![Bash badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![Anaconda badge](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)](https://www.jetbrains.com/pycharm/)
 [![Java Badge](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=ea2d2e)](https://www.java.com)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=ea2d2e)](https://www.jetbrains.com/idea/)
+[![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)](https://www.android.com)
 [![CSharp Badge](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=1e9e25)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Unity Badge](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=222c37)](https://unity.com/)
-[![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)](https://www.android.com)
+[![Bash badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![Linux badge](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=#FCC624)](https://www.linux.org/)
 [![HTML badge](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.spec.whatwg.org/)
 [![CSS badge](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript badge](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)](http://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![SQLite badge](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)](https://www.sqlite.org/index.html)
 [![Jekyll badge](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)](https://jekyllrb.com/)
 [![Markdown badge](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
@@ -71,7 +76,7 @@
 
 ## Games
 - **[Tez](https://github.com/knacko/Tez)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="15"> - a replication of the 90's game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)), but allows for multiple other tesselation patterns. Available on the Google Play store.
-- **[Mindusty Mods](https://github.com/knacko/MindustryMods)** <a href="https://mindustrygame.github.io/wiki/logic/0-introduction/"><img src="/images/mindustry.png" width="15"></a> - a small collection of schematics for processors in the factory game [Mindustry](https://anuke.itch.io/mindustry). Includes auto-conveyer upgrades, detectors, factory controls, and more.
+- **[Mindusty Mods](https://github.com/knacko/MindustryMods)** <a href="https://mindustrygame.github.io/wiki/logic/0-introduction/"><img src="/images/mindustry.png" width="15"></a> - a small collection of schematics for logic processors in the factory game [Mindustry](https://anuke.itch.io/mindustry). Includes auto-conveyer upgrades, detectors, factory controls, and more.
 
 ## Tools
 - **[AudioToolkit](https://github.com/knacko/AudioToolkit)** <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15"></a> - a suite to tools to aid installing stereo system. Available on the Google Play store.
