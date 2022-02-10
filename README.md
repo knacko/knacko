@@ -83,9 +83,10 @@
 
 </details>
 
-<!-- br>
-<details> <summary>💾 My contributions!</h1></summary>
-[![Website Badge](/images/sk_hardcore.png)](https://github.com/skyarkhangel/Hardcore-SK/commits?author=knacko)
+<!-- details> <summary>💾 My contributions!</h1></summary><br>
+
+[![HardcoreSK icon](/images/sk_hardcore.png)](https://github.com/skyarkhangel/Hardcore-SK/commits?author=knacko)
+
 </details -->
 
 
