@@ -17,7 +17,8 @@
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
 
 </div>
-<hr>   
+
+---
 
 ### 👨🏻‍💻 About Me
 
@@ -60,7 +61,8 @@
 
 </details>
 
-<hr>
+---------------------------------------------------------------------------
+
 <!-- No width space: %E2%80%8B -->
 
 ### 🛠 Tech Stack
@@ -129,7 +131,7 @@
 ### Latest Blog Posts
 
 <-->
-<hr>
+---------------------------------------------------------------------------
 
 ### ⚙️&nbsp;GitHub Analytics
 
@@ -148,3 +150,7 @@
   </tr>
   </table>
 </p>
+
+[Ricon]: /images/r-original.svg "R icon"
+[Rlink]: https://www.r-project.org/
+[![Ricon]][Rlink]
