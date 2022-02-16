@@ -3,6 +3,7 @@
 <img align="center" src="/images/header.png" alt="Drew's GitHub Stats" height="225"/>  
 
 [![Website Badge](https://img.shields.io/badge/Website-6F8FAF?style=flat&logoColor=white&logo=AIOHTTP)](https://knacko.github.io/)
+[![Resume Badge](https://img.shields.io/badge/Resume\\CV-6332F6?style=flat&logoColor=white&logo=Textpattern)](https://knacko.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerdyaswild/)
@@ -25,13 +26,39 @@
 🌱 &nbsp;&nbsp;My current focus is AI/machine learning algorithms and writing highly automated code.\
 ✍️ &nbsp;&nbsp;In my free time, I'm usually doing yoga, climbing, cycling, hiking, camping, or otherwise getting dirty.
 
-<!-- details> <summary>🎓 More about me!</h1></summary>
+<details> <summary>🎓 More about me!</h1></summary>
 
-## Schoolin'
+## Education
+
+#### Universität Heidelberg - Masters of molecular bioscience, cancer biology ([HU](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences))
+- Theis project: scMethrix, a single cell methylation summarization tool and application in analysis of glioma-related macrophages (see [scMethrix](https://github.com/CompEpigen/scMethrix) and [brainphageDNAme](https://github.com/CompEpigen/brainphageDNAme))
+- Practical work performed at the German Cancer Research Center ([DKFZ](https://www.dkfz.de/en/index.html))
+- Final grade: 1.8 GPA ([German scale](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education); approx 3.3 GPA in US scale)
 
 
+#### University of British Columia - Honours Bachelor in microbiology ([UBC](https://biology.ok.ubc.ca/undergraduate/microbiology/))
+- Thesis project: Observations of Transposable Element Richness and Diversity in Embryophytes (see [EmbryophyteTEs](https://github.com/CompEpigen/EmbryophyteTEs))
+- 4th year broad at Uppsala University taking courses for MSc in Mol.Bio. ([UU](https://www.uu.se/en/admissions/master/selma/program/?pInr=IMMI&pKod=TBI2M))
+- Final grade: 4.0 GPA
 
-</details -->
+## Research
+
+#### Center for Big Data Research in Health, [UNSW](https://cbdrh.med.unsw.edu.au/)
+- Manuscript in progress for lifestyle risk factors contributing to glioma, as part of the Australian Genomics and Clinical Outcomes of Glioma [project](http://agogbio.unsw.edu.au/)
+- Developed new analysis software for analyzing epidemiological data (see [DAGnalysis](https://github.com/knacko/DAGnalysis) and [EpidExperiment](https://github.com/knacko/EpidExperiment))
+
+#### Infection and Cancer Epidemiology group, [DKFZ](https://www.dkfz.de/en/index.html)
+- Developed novel large-scale epidemiological assay for syphilis-causing *Treponema pallidum*  (>99% sensitivity and specificity)
+- Build new analysis software in R and Shiny for handling multiplex serology data (see [here](https://github.com/knacko/F022-Multiplex-Serology-Dashboard))
+
+####  Molecular Pathogenesis of Genetic Disorders group, [HU](https://www.uni-heidelberg.de/izn/researchgroups/rappold/)
+- Generated mutant neural cell lines with patient-specific mutations related to autism spectrum disorder and intellectual disabilities
+- Quantified expression of autism-related genes in mutant neurons (i.e., SHANK2, GRIN2B, PSD95, Synaptophysin)
+
+## Publications
+- Xue, Jinru, Erna Jia, Na Ren, Andrew Lindsay, and Haixin Yu. Circulating MicroRNAs as Promising Diagnostic Biomarkers for Pancreatic Cancer: A Systematic Review. (2019). [OncoTargets and Therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6707936/)
+
+</details>
 
 <hr>
 <!-- No width space: %E2%80%8B -->
