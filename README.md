@@ -6,12 +6,12 @@
 [![Resume Badge](https://img.shields.io/badge/Resume\\CV-6332F6?style=plastic&logoColor=white&logo=Textpattern)](https://knacko.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andr.lindsay@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-yellowgreen?style=plastic&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6607-5812/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerdyaswild/)
- [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerdyaswild/)  
+[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-b610b0?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/nerdyaswild)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
-[![Hits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=knacko.knacko&logo=GitHub&logoColor=FFFFFF&label=&labelColor=9b0d14&color=9b0d14&style=plastic)](https://github.com/ESKYoung/shields-io-visitor-counter)
+<!--[![Hits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=knacko.knacko&logo=GitHub&logoColor=FFFFFF&label=&labelColor=9b0d14&color=9b0d14&style=plastic)](https://github.com/ESKYoung/shields-io-visitor-counter) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
@@ -30,7 +30,17 @@
 <details> <summary>🎓 More about me!</h1></summary>
 
 <sup>
+
+## Work
+
+#### Alberta Precision Labs - Lab Specialist ([APL](https://www.albertaprecisionlabs.ca/))
+
+- Developed numerous tools for bioinformatic analysis (see [Downsampler][])
   
+- Created modular bioinformatic pipelines (see [raw-read-qc][])
+  
+- Automated NGS workflows to improve turn around time
+
 ## Education
 
 #### Universität Heidelberg - Masters of molecular bioscience, cancer biology ([HU](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences))
@@ -104,6 +114,7 @@
 [![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
 [![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
+[![Nextflow badge](https://img.shields.io/badge/-Nextflow-05122A?style=flat&logo=gitextensions&logoColor=24B064)](https://www.nextflow.io/)
 
 <details> <summary>🚧 All my projects!</summary>
 
@@ -116,6 +127,8 @@
 - **[EpidExperiment][]** [![RIcon]][RLink] - an epidemiological analysis R package built-on the Bioconductor [SummarizedExperiment](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html).  
 - **[Multiplex Serology Dashboard][MSD]** [![RIcon]][RLink][![RShinyIcon]][RShinyLink] - scripts and validation of a novel serological assay for Treponema pallidum (syphilis).  
 - **[EmbryophyteTEs][]** [![RIcon]][RLink][![PythonIcon]][PythonLink][![BashIcon]][BashLink]- scripts for analyzing transposable elements in embryophytes.
+- **[Downsampler][]** [![PythonIcon]][PythonLink]- tool to downsample NGS reads for validating minimum depth of coverage.
+- **[raw-read-qc][]** [![PythonIcon]][PythonLink][![NextflowIcon]][NextflowLink]- organism-agnostic QC module for NGS reads on Illumina and Nanopore sequencers 
 
 ## AI and machine learning
 - **[lightsOutPy](https://github.com/knacko/lightsOutPy)** [![PythonIcon]][PythonLink] - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) used in finding optimal solutions via machine learning.
@@ -186,6 +199,9 @@
 [AndroidLink]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [JavaScriptIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=javascript&logoColor=F7DF1E "JavaScript icon"
 [JavaScriptLink]: http://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[NextflowIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=gitextensions&logoColor=24B064
+[NextflowLink]: https://www.nextflow.io/
+
 
 [scMethrix]: https://github.com/CompEpigen/scMethrix
 [brainphageDNAme]: https://github.com/knacko/brainphageDNAme
@@ -193,3 +209,5 @@
 [EpidExperiment]: https://github.com/knacko/EpidExperiment
 [EmbryophyteTEs]: https://github.com/knacko/EmbryophyteTEs
 [MSD]: https://github.com/knacko/F022-Multiplex-Serology-Dashboard
+[Downsampler]: https://github.com/knacko/downsampler
+[raw-read-qc]: https://github.com/knacko/raw-read-qc
