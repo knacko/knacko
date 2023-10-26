@@ -35,9 +35,9 @@
 
 #### Alberta Precision Labs - Lab Specialist ([APL](https://www.albertaprecisionlabs.ca/))
 
-- Developed numerous tools for bioinformatic analysis (see [Downsampler][])
+- Developed numerous tools for bioinformatic analysis (see [downsampler][], [hnoss][])
   
-- Created modular bioinformatic pipelines (see [raw-read-qc][])
+- Created modular bioinformatic pipelines (see [quick-sequence-qc][], [basic-sequence-stats][], [basic-sequence-trimmer][])
   
 - Automated NGS workflows to improve turn around time
 
@@ -99,7 +99,8 @@
 [![PyCharm badge](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Anaconda badge](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)](https://www.jetbrains.com/pycharm/)
 [![Java Badge](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=ea2d2e)][JavaLink]
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellij-idea&logoColor=ea2d2e)](https://www.jetbrains.com/idea/)
+[![Groovy Badge](https://img.shields.io/badge/Groovy-05122A?style=flat&logo=apachegroovy&logoColor=619CBC)][GroovyLink]
+[![Nextflow badge](https://img.shields.io/badge/-Nextflow-05122A?style=flat&logo=gitextensions&logoColor=24B064)](https://www.nextflow.io/)
 [![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)][AndroidLink]
 [![CSharp Badge](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=1e9e25)][CSharpLink]
 [![Unity Badge](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=222c37)](https://unity.com/)
@@ -114,7 +115,6 @@
 [![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
 [![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
-[![Nextflow badge](https://img.shields.io/badge/-Nextflow-05122A?style=flat&logo=gitextensions&logoColor=24B064)](https://www.nextflow.io/)
 
 <details> <summary>🚧 All my projects!</summary>
 
@@ -128,7 +128,9 @@
 - **[Multiplex Serology Dashboard][MSD]** [![RIcon]][RLink][![RShinyIcon]][RShinyLink] - scripts and validation of a novel serological assay for Treponema pallidum (syphilis).  
 - **[EmbryophyteTEs][]** [![RIcon]][RLink][![PythonIcon]][PythonLink][![BashIcon]][BashLink]- scripts for analyzing transposable elements in embryophytes.
 - **[Downsampler][]** [![PythonIcon]][PythonLink]- tool to downsample NGS reads for validating minimum depth of coverage.
-- **[raw-read-qc][]** [![PythonIcon]][PythonLink][![NextflowIcon]][NextflowLink]- organism-agnostic QC module for NGS reads on Illumina and Nanopore sequencers 
+- **[quick-sequence-qc][]** [![PythonIcon]][PythonLink][![NextflowIcon]][NextflowLink]- organism-agnostic QC module for NGS reads on Illumina and Nanopore sequencers
+- **[basic-sequence-stats][]** [![GroovyIcon]][GroovyLink][![NextflowIcon]][NextflowLink]- organism-agnostic stats module for NGS reads on Illumina and Nanopore sequencers
+- **[basic-sequence-trimmer][]** [![GroovyIcon]][GroovyLink][![NextflowIcon]][NextflowLink]- organism-agnostic trimmer module for NGS reads on Illumina and Nanopore sequencers 
 
 ## AI and machine learning
 - **[lightsOutPy](https://github.com/knacko/lightsOutPy)** [![PythonIcon]][PythonLink] - an abstracted version of the game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) used in finding optimal solutions via machine learning.
@@ -199,9 +201,10 @@
 [AndroidLink]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [JavaScriptIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=javascript&logoColor=F7DF1E "JavaScript icon"
 [JavaScriptLink]: http://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-[NextflowIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=gitextensions&logoColor=24B064
+[NextflowIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=gitextensions&logoColor=24B064 "Nextflow icon"
 [NextflowLink]: https://www.nextflow.io/
-
+[GroovyIcon]: https://img.shields.io/badge/--05122A?style=flat&logo=apachegroovy&logoColor=619CBC "Groovy icon"
+[GroovyLink]: https://groovy-lang.org/
 
 [scMethrix]: https://github.com/CompEpigen/scMethrix
 [brainphageDNAme]: https://github.com/knacko/brainphageDNAme
@@ -209,5 +212,8 @@
 [EpidExperiment]: https://github.com/knacko/EpidExperiment
 [EmbryophyteTEs]: https://github.com/knacko/EmbryophyteTEs
 [MSD]: https://github.com/knacko/F022-Multiplex-Serology-Dashboard
-[Downsampler]: https://github.com/knacko/downsampler
-[raw-read-qc]: https://github.com/knacko/raw-read-qc
+[downsampler]: https://github.com/knacko/downsampler
+[hnoss]: https://github.com/knacko/hnoss
+[quick-sequence-qc]: https://github.com/knacko/quick-sequence-qc
+[basic-sequence-stats]: https://github.com/knacko/basic-sequence-qc
+[basic-sequence-trimmer]: https://github.com/knacko/basic-sequence-trimmer
