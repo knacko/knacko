@@ -23,8 +23,8 @@
 ### 👨🏻‍💻 About Me
 
 💡 &nbsp;&nbsp;&nbsp;I like to build user-friendly tools to simplify complex analyses.\
-🎓 &nbsp;&nbsp;I've just finished my `MSc in molecular biology` at the University of Heidelberg.\
-🌱 &nbsp;&nbsp;My current focus is AI/machine learning algorithms and writing highly automated code.\
+🎓 &nbsp;&nbsp;I work at `Alberta Precision Labs` doing emerging pathogen surveillence and research.\
+🌱 &nbsp;&nbsp;My current focus is writing modular and highly automated code.\
 ✍️ &nbsp;&nbsp;In my free time, I'm usually doing yoga, climbing, cycling, hiking, camping, or otherwise getting dirty.
 
 <details> <summary>🎓 More about me!</h1></summary>
@@ -49,7 +49,7 @@
   macrophages (see [scMethrix][] and [brainphageDNAme][])
   
 - Practical work performed at the German Cancer Research Center ([DKFZ](https://www.dkfz.de/en/index.html))
-- Final grade: 1.8 GPA ([German scale](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education); approx 3.3 GPA in US scale)
+- Final grade: 1.8 GPA ([German scale](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education); approx 3.7 GPA in US scale)
 
 
 #### University of British Columia - Honours Bachelor in microbiology ([UBC](https://biology.ok.ubc.ca/undergraduate/microbiology/))
@@ -57,7 +57,7 @@
   
 - 4th year abroad at Uppsala University taking courses for MSc in Mol.Bio. ([UU](https://www.uu.se/en/admissions/master/selma/program/?pInr=IMMI&pKod=TBI2M))
   
-- Final grade: 4.0 GPA
+- Final grade: 3.97 GPA
   
 ## Research
   
