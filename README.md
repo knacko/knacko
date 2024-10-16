@@ -9,10 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerdyaswild/)  
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-F47F24?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1451667/nerdyaswild)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-b610b0?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/nerdyaswild)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/o8jkslw1ca3xo412kmsgghg5i?si=e30598946d104ba0)
+[![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-248BFB?style=plastic&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/nerdyaswild/designs)
 <!--[![Hits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=knacko.knacko&logo=GitHub&logoColor=FFFFFF&label=&labelColor=9b0d14&color=9b0d14&style=plastic)](https://github.com/ESKYoung/shields-io-visitor-counter) -->
-
+<!--[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/nerdyaswild)-->
 <!-- ![](https://komarev.com/ghpvc/?username=knacko) -->
 <!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nerdyaswild) -->
 
@@ -93,7 +93,7 @@
 
 ### 🛠 Tech Stack
 [![R Badge](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=1F65CC)][RLink]
-[![RStudio badge](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)](https://www.rstudio.com/)
+[![RStudio badge](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio-ide&logoColor=75AADB)](https://www.rstudio.com/)
 [![Shiny Badge](https://img.shields.io/badge/Shiny-05122A?style=flat&logo=Symphony&logoColor=75aadb)][RShinyLink]
 [![Python Badge](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=4B8BBE)][PythonLink]
 [![PyCharm badge](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
@@ -102,20 +102,21 @@
 [![Groovy Badge](https://img.shields.io/badge/Groovy-05122A?style=flat&logo=apachegroovy&logoColor=619CBC)][GroovyLink]
 [![Nextflow badge](https://img.shields.io/badge/-Nextflow-05122A?style=flat&logo=gitextensions&logoColor=24B064)](https://www.nextflow.io/)
 [![Android Badge](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)][AndroidLink]
-[![CSharp Badge](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=1e9e25)][CSharpLink]
-[![Unity Badge](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=222c37)](https://unity.com/)
+[![CSharp Badge](https://img.shields.io/badge/C%23-05122A?style=flat&logo=sharp&logoColor=1e9e25)][CSharpLink]
+[![Unity Badge](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)](https://unity.com/)
 [![Bash badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)][BashLink]
 [![Linux badge](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=#FCC624)](https://www.linux.org/)
 [![HTML badge](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://html.spec.whatwg.org/)
 [![CSS badge](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript badge](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)][JavaScriptLink]
-[![SQLite badge](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)](https://www.sqlite.org/index.html)
+[![SQLite badge](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)](https://www.sqlite.org/index.html)
 [![Jekyll badge](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll&logoColor=CC0000)](https://jekyllrb.com/)
 [![Markdown badge](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)
-[![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
+[![Git badge](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub badge](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com)
-[![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)](https://www.adobe.com/ca/products/photoshop.html)
-
+[![Photoshop badge](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop&logoColor=31A8FF)](https://www.adobe.com/ca/products/photoshop.html)
+[![Fusion badge](https://img.shields.io/badge/-Fusion-05122A?style=flat&logo=autodesk)]((https://www.autodesk.com/ca-en/products/fusion-360/overview))
+[![Sketchup badge](https://img.shields.io/badge/-SketchUp-05122A?style=flat&logo=sketchup&logoColor=005F9E)](https://www.sketchup.com/)
 <details> <summary>🚧 All my projects!</summary>
 
 <sup>  
